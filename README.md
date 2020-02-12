@@ -6,7 +6,7 @@ La página web 'movie-react' te muestra toda la infomación de las películas co
 
 ### Ejecutar
 
-1: instalar las dependencias , 'yarn install'
+1: instalar las dependencias , 'yarn install' <br>
 2: ejecutar , 'yarn dev'
 
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser
