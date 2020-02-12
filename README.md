@@ -1,13 +1,15 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este Proyecto esta Desarrollado con React [Create React App](https://github.com/facebook/create-react-app).
 
 ## Descripción
 
-Página Web donde podrá visualizar toda la información de las cpelículas populares , ultimos lanzamientos  y buscar una película en particular
+La página web 'movie-react' te muestra toda la infomación de las películas como : películas populares , últimas películas y un buscador de películas...
 
-### `yarn dev`
+### Ejecutar
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser, lo puede ejecutar escribiendo en la consola "yarn dev"
+1: instalar las dependencias , 'yarn install'
+2: ejecutar , 'yarn dev'
+
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser
 
 
 
