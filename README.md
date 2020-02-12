@@ -1,8 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Descripción
 
-In the project directory, you can run:
+Página Web donde podrá visualizar toda la información de las cpelículas populares , ultimos lanzamientos  y buscar una película en particular
 
 ### `yarn dev`
 
